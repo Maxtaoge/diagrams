@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T02:35:03.005Z" agent="5.0 (Windows)" version="14.9.0" etag="AdorumNZNoGKLUfhXOSH" type="github"><diagram id="Yk9lX8MKMubaPhduM3Fb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-20T02:43:06.519Z" agent="5.0 (Windows)" etag="qjI1OWSbqDtRlz2Rf4kJ" version="14.9.0" type="github">
+  <diagram id="Yk9lX8MKMubaPhduM3Fb" name="第 1 页">
+    <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="&lt;div&gt;oe-core&lt;/div&gt;" name="核心包" 描述="多个微服务公用依赖层 无个性化实现 微服务插件" id="Iesk4uahJpEVy7Krv6M1-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div&gt;oe-eclp&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" 名称="微服务层" 描述="提供业务服务,根据业务模块划分，相互独立 存在多个" id="Iesk4uahJpEVy7Krv6M1-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div&gt;oe-lesson&lt;/div&gt;" 名称="微服务层" 描述="提供业务服务,根据业务模块划分，相互独立 存在多个" id="Iesk4uahJpEVy7Krv6M1-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
